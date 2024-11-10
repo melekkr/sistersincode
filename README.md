@@ -14,7 +14,9 @@ Aysu Demir: Ben de 2019 yılında Başkent Üniversitesi Bilgisayar Mühendisli�
 İnsanların gelişimine katkıda bulunmak, onlara ilham vermek ve yolculuklarına eşlik etmek bizler için çok değerli. SistersInCode olarak, bir yandan kendimizi geliştirirken, bir yandan da başkalarına fayda sağlama arzumuzla yola çıkıyoruz.
 
 
-#About "SistersInCode"
+
+
+About "SistersInCode"
 
 As SistersInCode, we are two engineers aiming to share our knowledge and experiences that touch various aspects of life. While sharing our technical expertise in fields such as computer engineering, programming, data science, and artificial intelligence, we aspire to inspire people not only professionally but also in a productive, mindful, and spiritual way. This page is also part of our own journey of learning and growth. We believe in the significance of contributing to others and touching their lives while developing ourselves.
 
